@@ -1,8 +1,3 @@
-// ITP 365 Fall 2014
-// HW6 - Doubly Linked List and Movie Player
-// Name: Tommy Trojan
-// Email: ttrojan@usc.edu
-// Platform: Mac
 //
 // ITPDoubleList.hpp
 // Defines and implements the ITPDoubleList collection
